@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+
+  }
+
+body {
+    background-color: rgb(253, 44, 253);
+  }
+
+  h1 {
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  p {
+    color: rgb(5, 5, 5);
+    font-family: monospace;
+    font-size: 20px;
+  }
